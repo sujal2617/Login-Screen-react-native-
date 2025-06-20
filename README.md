@@ -59,8 +59,8 @@ LoginScreenApp/
 
 ```bash
 # Install Node.js from https://nodejs.org
-npm install -g expo-cli  # Install Expo CLI
-expo --version           # Verify Expo
+npm install -g expo-cli 
+expo --version
 ```
 
 ### Step 2: Create Project
@@ -172,3 +172,4 @@ expo build:ios
 3. Commit your changes
 4. Push the branch
 5. Open a Pull Request
+

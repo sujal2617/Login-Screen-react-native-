@@ -172,22 +172,3 @@ expo build:ios
 3. Commit your changes
 4. Push the branch
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-## 🙌 Acknowledgements
-
-* React Native
-* Expo
-* Vector Icons
-* Community inspirations
-
----
-
-Made with ❤️ by Sujal Pattewar

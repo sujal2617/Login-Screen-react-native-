@@ -142,14 +142,14 @@ expo start
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="image.png" alt="screenshot" width="250"/>
-  <img src="image-1.png" alt="screenshot" width="250"/>
-  <img src="image-2.png" alt="screenshot" width="250"/>
-  <img src="image-3.png" alt="screenshot" width="250"/>
-  <img src="image-4.png" alt="screenshot" width="250"/>
-  <img src="image-5.png" alt="screenshot" width="250"/>
-  <img src="image-6.png" alt="screenshot" width="250"/>
-  <img src="image-7.png" alt="screenshot" width="250"/>
+  <img src="iassets/images/mage.png" alt="screenshot" width="250"/>
+  <img src="iassets/images/mage-1.png" alt="screenshot" width="250"/>
+  <img src="iassets/images/mage-2.png" alt="screenshot" width="250"/>
+  <img src="assets/images/image-3.png" alt="screenshot" width="250"/>
+  <img src="assets/images/image-4.png" alt="screenshot" width="250"/>
+  <img src="assets/images/image-5.png" alt="screenshot" width="250"/>
+  <img src="assets/images/image-6.png" alt="screenshot" width="250"/>
+  <img src="assets/images/image-7.png" alt="screenshot" width="250"/>
 </p>
 
 
